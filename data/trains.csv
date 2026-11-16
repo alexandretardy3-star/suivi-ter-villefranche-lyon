@@ -19,7 +19,7 @@ date,sens,numero,depart_prevu,arrivee_prevue,depart_reel_ou_estime,arrivee_reell
 2026-11-16,Part-Dieu → Villefranche,886030,17:46,18:09,,,,prévu,non,2026-11-16T18:48:39.944644+01:00,"Données SNCF (ODbL), via Train Nomade"
 2026-11-16,Part-Dieu → Villefranche,886032,18:46,19:09,18:46,19:09,0.0,arrivé (passage constaté),oui,2026-11-16T19:37:26.535044+01:00,"Données SNCF (ODbL), via Train Nomade"
 2026-11-16,Part-Dieu → Villefranche,886036,21:16,21:38,21:16,21:38,0.0,estimé / en circulation,non,2026-11-16T21:27:03.231566+01:00,"Données SNCF (ODbL), via Train Nomade"
-2026-11-16,Part-Dieu → Villefranche,886038,22:12,22:35,22:12,22:35,0.0,estimé / en circulation,non,2026-11-16T22:18:33.762524+01:00,"Données SNCF (ODbL), via Train Nomade"
+2026-11-16,Part-Dieu → Villefranche,886038,22:12,22:35,22:12,22:45,10.0,arrivé (passage constaté),oui,2026-11-16T23:07:41.388434+01:00,"Données SNCF (ODbL), via Train Nomade"
 2026-11-16,Villefranche → Part-Dieu,17767,10:21,10:44,,,,prévu,non,2026-11-16T18:48:39.944644+01:00,"Données SNCF (ODbL), via Train Nomade"
 2026-11-16,Villefranche → Part-Dieu,17769,12:21,12:44,,,,prévu,non,2026-11-16T18:48:39.944644+01:00,"Données SNCF (ODbL), via Train Nomade"
 2026-11-16,Villefranche → Part-Dieu,17771,14:19,14:44,,,,prévu,non,2026-11-16T18:48:39.944644+01:00,"Données SNCF (ODbL), via Train Nomade"
