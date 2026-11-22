@@ -13,3 +13,5 @@ date,sens,trains_prevus_observes,arrivees_constatees,retards_5min,retards_15min,
 2026-11-21,Villefranche → Part-Dieu,9,1,0,0,0,8,0.0,100.0
 2026-11-22,Part-Dieu → Villefranche,9,8,0,0,0,1,0.0,100.0
 2026-11-22,Villefranche → Part-Dieu,10,0,0,0,0,10,,
+2026-11-23,Part-Dieu → Villefranche,21,0,0,0,0,21,,
+2026-11-23,Villefranche → Part-Dieu,20,0,0,0,0,20,,
